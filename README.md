@@ -1,0 +1,1 @@
+# reconhecimento_comando_voz_manual
