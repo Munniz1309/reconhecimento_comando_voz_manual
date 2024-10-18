@@ -28,7 +28,7 @@ A base de dados utilizada no projeto contém amostras de áudio com diferentes c
 
 ### Características da Base de Dados:
 
-- **Áudio**: Amostras de áudio de comandos de voz.
+- **Áudio**: Amostras de áudio de comandos de voz (10 arquivos de áudio representando o comando "ligar", 10 arquivos de áudio representando o comando "fechar", 10 arquivos de áudio representando o comando "abrir").
 - **Classes de Comandos**: Cada amostra é rotulada com o comando correspondente.
 - **Extração Manual de Features**: As características do áudio, como **MFCCs**, são extraídas sem o uso de funções prontas, garantindo controle total sobre o processo de extração.
 
